@@ -29,3 +29,4 @@ vim.cmd("filetype plugin on")
 
 vim.g.mapleader = ","
 vim.g.maplocalleader = ","
+vim.g.parinfer_enabled = false
